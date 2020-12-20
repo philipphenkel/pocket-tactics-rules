@@ -2,15 +2,7 @@
 
 # pocket-tactics-rules
 
+[German Core Rules](./de/core-rules.md)
 
-
-
-Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung-Nicht kommerziell-Share Alike 4.0 International-Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-
-
-
-
-
-
-
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
