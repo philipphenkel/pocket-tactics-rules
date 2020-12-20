@@ -2,9 +2,11 @@
 
 ## Die Legion des Hochkönigs gegen die Stämme des Dunkelwaldes
 
-Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie überallhin mitnehmen und spielen können! Diese Set enthält zwei Fraktionen. Für ein gewöhnliches Zwei-Spieler-Spiel benötigen Sie folgende Einheiten und Geländekacheln:
+![pocket-tactics](../images/pocket-tactics-small.png)
 
-**Legion des Hochkönigs**
+Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie überallhin mitnehmen und spielen können! Diese Set enthält zwei Fraktionen. Für ein gewöhnliches Zwei-Spieler-Spiel benötigen Sie folgende Einheiten und Geländekacheln.
+
+### Legion des Hochkönigs
 + Rekrut x 3
 + Bogenschütze x 2
 + Speerkämpfer x 2
@@ -16,7 +18,7 @@ Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie
 + Hügelkachel x 4
 + Dorfkachel x 2 
 
-**Stämme des Dunkelwaldes**
+### Stämme des Dunkelwaldes
 + Späher des Dunkelwaldes x 3
 + Plünderer des Dunkelwaldes x 2
 + Moloch des Dunkelwaldes x 2
@@ -27,23 +29,21 @@ Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie
 + Wasserkachel x 3
 + Waldkachel x 7
 
-![pocket-tactics](../images/pocket-tactics-small.png)
-
 ## Spielvorbereitung
 
-1.	Die Spieler wählen jeweils eine Fraktion. Legen Sie anschließend sowohl die zwei Stützpunkte (Caer und Druidenkreis) als auch alle Einheiten an die Seite des Spielfelds.
-2.	Geben Sie alle 20 Geländekacheln in einem Beutel.
-3.	Würfeln Sie, um zu bestimmen, wer der erste Spieler ist.
-4.	Der erste Spieler legt seinen Stützpunkt vor sich auf das Spielfeld, zieht eine Geländekachel aus dem Beutel und legt die Kachel an eine nach außen gerichtete Seite seines Stützpunkts. Das sind die drei Seiten, die vom ersten Spieler weg zeigen.
-5.	Spieler 2 zieht eine Kachel und legt sie auf die gleiche Weise ab. 
++   Die Spieler wählen jeweils eine Fraktion. Legen Sie anschließend sowohl die zwei Stützpunkte (Caer und Druidenkreis) als auch alle Einheiten an die Seite des Spielfelds.
++	Geben Sie alle 20 Geländekacheln in einem Beutel.
++	Würfeln Sie, um zu bestimmen, wer der erste Spieler ist.
++	Der erste Spieler legt seinen Stützpunkt vor sich auf das Spielfeld, zieht eine Geländekachel aus dem Beutel und legt die Kachel an eine nach außen gerichtete Seite seines Stützpunkts. Das sind die drei Seiten, die vom ersten Spieler weg zeigen.
++	Spieler 2 zieht eine Kachel und legt sie auf die gleiche Weise ab. 
 Wie bei bei der ersten Kachel, muss auch die zweite an einer vom ersten Spieler abgewandten Kachelseite platziert werden. 
-6.	Legen Sie nun abwechselnd neue Geländekacheln auf diese Weise ab. Das Spielfeld sollte sich in Richtung des zweiten Spielers auffächern und ausdehnen.
-7.	Sobald alle 20 Geländekacheln im Spiel sind, platziert der zweite Spieler seinen Stützpunkt so weit wie möglich von dem ersten Stützpunkt entfernt. Der Stützpunkt muss hierbei genau die gleiche Anzahl von Geländekacheln berühren. Wenn beispielsweise der Stützpunkt des ersten Spielers mit zwei Kacheln verbunden ist, muss der Stützpunkt des zweiten Spielers an die am weitesten entfernte Stelle gelegt werden, an der er ebenfalls mit zwei Kacheln verbunden ist.
-8. Jedes der Charaktermodelle wird als eine Einheit bezeichnet. Beginnend mit dem ersten Spieler, stellen die Spieler abwechselnd Einheiten auf die Geländekacheln, die ihrem Stützpunkt am nächsten liegen. Jeder Spieler bringt zunächst drei Einheiten ins Spiel. Die restlichen Einheiten werden am Rand des Spielfelds platziert und bilden die Reserve.
++	Legen Sie nun abwechselnd neue Geländekacheln auf diese Weise ab. Das Spielfeld sollte sich in Richtung des zweiten Spielers auffächern und ausdehnen.
++	Sobald alle 20 Geländekacheln im Spiel sind, platziert der zweite Spieler seinen Stützpunkt so weit wie möglich von dem ersten Stützpunkt entfernt. Der Stützpunkt muss hierbei genau die gleiche Anzahl von Geländekacheln berühren. Wenn beispielsweise der Stützpunkt des ersten Spielers mit zwei Kacheln verbunden ist, muss der Stützpunkt des zweiten Spielers an die am weitesten entfernte Stelle gelegt werden, an der er ebenfalls mit zwei Kacheln verbunden ist.
++ Jedes der Charaktermodelle wird als eine Einheit bezeichnet. Beginnend mit dem ersten Spieler, stellen die Spieler abwechselnd Einheiten auf die Geländekacheln, die ihrem Stützpunkt am nächsten liegen. Jeder Spieler bringt zunächst drei Einheiten ins Spiel. Die restlichen Einheiten werden am Rand des Spielfelds platziert und bilden die Reserve.
 
 
 ## Spielablauf
-Der erste Spieler beginnt das Spiel. In seinem Zug kann der Spieler entweder eine Einheit bewegen, einen Angriff durchführen oder eine neue Einheit aufstellen. 
+Der erste Spieler beginnt das Spiel. In seinem Zug kann der Spieler entweder eine Einheit bewegen, eine neue Einheit aufstellen oder einen Angriff durchführen.  
 
 ### Bewegen
 Eine Einheit kann sich auf eine benachbarte unbesetzte Kachel bewegen. Einheiten können eine von einer befreundeten Einheit besetzte Kachel "überspringen", um eine unbesetzte Kachel zu erreichen. Einige Einheiten, wie Speerkämpfer und der Druide, haben spezielle Fähigkeiten, die die Bewegung beeinflussen. Diese Fähigkeiten sind auf dem Steckbrief der Einheiten aufgeführt.
@@ -88,24 +88,26 @@ gewährt einen Wiederholungswurf. Das Verteidigen auf einem vorteilhaften Gelän
 An einen Kampf angrenzende Einheiten bringen Vorteile. Wenn der Angreifer Verbündete in der Nähe des Ziels hat, gewähren sie jeweils einen Wiederholungswurf. Wenn der Verteidiger Verbündete auf
 angrenzenden Felder hat, gewähren diese jeweils einen Wiederholungswurf. Benachbarte verbündete Stützpunkte gewähren zwei Wiederholungswürfe.
 
+### Stützpunkte
+Stützpunkte können keine Einheiten besiegen. Wenn sie angegriffen werden, verteidigen sich immer mit Abwehrwürfeln. Benachbarte verbündete Einheiten unterstützen ihren Stützpunkt. 
+Einheiten dürfen die Stützpunkte nicht wie andere Felder besetzen und bekommen keinen Vorteil, wenn sie einen Angriff in der Nachbarschaft durchführen.
+
+
 ## Aufstellen von Einheiten
 Anstatt sich zu bewegen oder anzugreifen, kann ein Spieler eine Einheit aus seiner Reserve holen und sie auf ein unbesetztes Feld neben seinem Stützpunkt platzieren. Das Aufstellen einer Einheit auf Wasser oder einem anderen Gelände mit einer Gefahr löst keine Gefahrenprüfung aus. Ein Spieler kann eine Einheit zurück in seine Reserven beordern, indem er die Einheit auf seinen Stützpunkt bewegt.
 
 ## Siegbedingungen
 Um zu gewinnen, muss ein Spieler entweder die gesamte gegnerische Armee gefangen nehmen oder deren Stützpunkt besiegen.
 
-## Angreifen von Stützpunkten
-Stützpunkte können keine Einheiten besiegen. Wenn sie angegriffen werden, verteidigen sich immer mit Abwehrwürfeln. Benachbarte verbündete Einheiten unterstützen ihren Stützpunkt. 
-Einheiten dürfen die Stützpunkte nicht wie andere Felder besetzen und bekommen keinen Vorteil, wenn sie einen Angriff in der Nachbarschaft durchführen.
 
-## Auf Zeit spielen
-Wenn ein Spieler mehrere sinnlose Züge macht, um Zeit zu gewinnen oder seinen Gegner dazu zu bringen, etwas Unüberlegtes zu tun, nennt man das "auf Zeit spielen". Das ist nicht erlaubt, es sei denn der Spieler hat nur noch zwei oder weniger Einheiten. 
-Wenn beide Spieler an diesem Punkt sind, hat nur der Spieler mit den niedrigsten Gesamtkosten das Recht, auf Zeit zu spielen.
+## Sonstiges
 
-## Kosten für Einheiten
-Jede Steckbrief führt die Kosten der Einheit auf. Diese Kosten basieren auf der Gesamteffektivität der Einheit. Im Standardspiel hat jede Fraktion 125 Punkte an Einheiten.
+### Auf Zeit spielen
+Wenn ein Spieler mehrere sinnlose Züge macht, um Zeit zu gewinnen oder seinen Gegner dazu zu bringen, etwas Unüberlegtes zu tun, nennt man das "auf Zeit spielen". Das ist nicht erlaubt, es sei denn der Spieler hat nur noch zwei oder weniger Einheiten. Wenn beide Spieler an diesem Punkt sind, hat nur der Spieler mit den niedrigsten Gesamtkosten das Recht, auf Zeit zu spielen.
 
+### Kosten für Einheiten
+Jeder Steckbrief führt die Kosten der Einheit auf und diese basieren auf der Gesamteffektivität der Einheit. Im Standardspiel hat jede Fraktion 125 Punkte an Einheiten.
 
-## Lizenz
+### Lizenz
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung-Nicht kommerziell-Share Alike 4.0 International-Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
