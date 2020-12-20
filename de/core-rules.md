@@ -52,7 +52,7 @@ Gefahren sind in der Regel Geländeeffekte, die eine Einheit außerhalb eines An
 Wenn Sie über einen Verbündeten auf einem Gefahrenfeld springen, wird keine Gefahrenprüfung durchgeführt. Eine Einheit, die in einem Gefahrenfeld Geländevorteil hat, ist immun gegen den Gefahreneffekt (allerdings gibt es in diesem Set keine Einheiten, auf die dies zutrifft).
 
 ### Angriff
-Eine Einheit kann eine gegnerische Einheit angreifen, indem sie einen "Angriff" deklariert. Es gibt zwei Arten von Angriffen: Nahkampfangriffe und Fernkampfangriffe.
+Eine Einheit attackiert einen Gegner, indem sie einen "Angriff" deklariert. Es gibt zwei Arten von Angriffen: Nahkampfangriffe und Fernkampfangriffe.
 
 
 
