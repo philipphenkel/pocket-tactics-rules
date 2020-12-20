@@ -27,6 +27,7 @@ Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie
 + Wasserkachel x 3
 + Waldkachel x 7
 
+![pocket-tactics](../images/pocket-tactics-small.png)
 
 ## Spielvorbereitung
 
