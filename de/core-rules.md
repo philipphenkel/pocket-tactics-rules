@@ -43,13 +43,13 @@ Wie bei bei der ersten Kachel, muss auch die zweite an einer vom ersten Spieler 
 
 
 ## Spielablauf
-Der erste Spieler beginnt das Spiel. In seinem Zug kann der Spieler entweder eine Einheit bewegen, einen Angriff durchführen oder eine neue Einheit einsetzen. 
+Der erste Spieler beginnt das Spiel. In seinem Zug kann der Spieler entweder eine Einheit bewegen, einen Angriff durchführen oder eine neue Einheit aufstellen. 
 
 ### Bewegen
 Eine Einheit kann sich auf eine benachbarte unbesetzte Kachel bewegen. Einheiten können eine von einer befreundeten Einheit besetzte Kachel "überspringen", um eine unbesetzte Kachel zu erreichen. Einige Einheiten, wie Speerkämpfer und der Druide, haben spezielle Fähigkeiten, die die Bewegung beeinflussen. Diese Fähigkeiten sind auf dem Steckbrief der Einheiten aufgeführt.
 
 #### Gefahren
-Gefahren sind meist Einflüsses des Geländes, die eine Einheit auch außerhalb eines Angriffs besiegen oder andere negative Auswirkungen haben können. Wenn Sie sich in ein Wasserfeld bewegen oder einen Nahkampfangriff dorthin durchführen, wirkt die Gefahr. Bei einer Wassergefahr wird sofort ein einzelner Würfel geworfen und bei einer 1 bis 3 ist die Einheit besiegt. Entfernen Sie die Einheit vom Spielfeld und übergeben Sie sie ihrem Gegner. Die Einheit kommt ins Gefangenenlager.
+Gefahren sind meist Einflüsses des Geländes, die eine Einheit auch außerhalb eines Angriffs besiegen oder andere negative Auswirkungen haben können. Wenn Sie sich in ein gefährliches Gelände bewegen oder einen Nahkampfangriff dorthin durchführen, wirkt die Gefahr und muss geprüft werden. Bei einer Gefahr durch Wasser wird sofort gewürfelt und bei einem Wurfe von 1 bis 3 ist die Einheit besiegt. Entfernen Sie die Einheit vom Spielfeld und übergeben Sie sie ihrem Gegner. Die Einheit kommt ins Gefangenenlager.
 Wenn Sie über einen Verbündeten auf einem Gefahrenfeld springen, wird keine Gefahrenprüfung durchgeführt. Eine Einheit, die in einem Gefahrenfeld Geländevorteil hat, ist immun gegen den Gefahreneffekt (allerdings gibt es in diesem Set keine Einheiten, auf die dies zutrifft).
 
 
@@ -65,18 +65,47 @@ Vergleichen Sie nun die Würfelpaare. Ist der Abwehrwurf niedriger als der Angri
 Es kann passieren, dass sich beide Einheiten gegenseitig besiegen. Es ist auch möglich, dass der Kampf in einer Pattsituation endet. 
 Wenn eine Einheit besiegt ist, wird sie von der Karte entfernt und dem Gefangenenlager des Gegners hinzugefügt. 
 Wenn die angreifende Einheit gesiegt und überlebt hat, wird sie nun das Gelände besetzen. Falls der Angriff in einer Pattsituation endete, kehrt der
-Angreifer auf das Feld zurück, auf dem er sich vor dem Angriff befand. Die Rückkehr löst keinen Gefahrentest aus.
+Angreifer auf das Feld zurück, auf dem er sich vor dem Angriff befand. Die Rückkehr löst keinen Gefahrenprüfung aus.
 
 
 #### Fernkampf
-Bei einem Fernangriff kann die angreifende Einheit eine gegnerische Einheit in einem angrenzenden Spielfeld mit Fernkampfwaffen oder Magie bekämpfen. Wie bei Nahkämpfen muss die verteidigende Einheit die vom Angreifer gewählte Angriffsart abwehren. Fernkämpfe werden genauso behandelt wie Nahkämpfe, mit dem Unterschied, dass der Angreifer sich nicht bewegt, wenn er gewinnt.
+Bei einem Fernangriff kann die angreifende Einheit eine gegnerische Einheit in einem angrenzenden Spielfeld mit Fernkampfwaffen oder Magie bekämpfen. Wie bei Nahkämpfen muss die verteidigende Einheit, die vom Angreifer gewählte Angriffsart abwehren. Fernkämpfe werden genauso behandelt wie Nahkämpfe, mit dem Unterschied, dass der Angreifer sich nicht bewegt, wenn er gewinnt.
 Ein Verteidiger kann nur dann einen Gegenangriff durchführen, wenn er eine ähnliche Spezialfähigkeit hat und damit den Angreifer erreichen kann.
 Einige Einheiten, beispielsweise Bogenschützen, verwenden spezielle Fähigkeiten, um Fernangriffe aus noch größerer Entfernung durchzuführen. Ein solche Fernkampfangriff, der sich über ein Feld hinaus erstreckt, darf nicht durch leere Räume erfolgen, in denen sich keine Geländekachel befindet.
 
 
+### Vorteil
+Einige Fähigkeiten und Situationen erlauben es den Einheiten einen oder mehrere Würfel neu zu würfeln, bevor ein Angriff abgewickelt wird.
+Wenn Einheiten Wiederholungswürfe zur Verfügung haben, würfeln die Spieler abwechselnd beginnend mit dem Angreifer, es sei denn eine Spezialfähigkeit bestimmt etwas anderes. 
+Wiederholungswürfe, die durch besondere Fähigkeiten gewährt werden, müssen zuerst verwendet werden und gelten nicht als Vorteilswürfe. 
+Vorteilswiederholungen entstehen durch Geländervorteil und Unterstützung befreundeter Einheiten. Die Vorteilswiederholungen betreffen nur die Würfe der eigenen Einheit, nicht die des Gegners.
 
+#### Geländervorteil
+Der Steckbrief jeder Einheit listet einen vorteilhaften Geländetyp. Ein Angriff auf dieses Gelände gewährt dem Angreifer einen Wiederholungswurf. Ein Fernkampfangriff von einem solchen Gelände  
+gewährt einen Wiederholungswurf. Das Verteidigen auf einem vorteilhaften Gelände wird ebenfalls mit einem Wiederholungswurf erleichtert.
+
+#### Unterstützung
+An einen Kampf angrenzende Einheiten bringen Vorteile. Wenn der Angreifer Verbündete in der Nähe des Ziels hat, gewähren sie jeweils einen Wiederholungswurf. Wenn der Verteidiger Verbündete auf
+angrenzenden Felder hat, gewähren diese jeweils einen Wiederholungswurf. Benachbarte verbündete Stützpunkte gewähren zwei Wiederholungswürfe.
+
+## Aufstellen von Einheiten
+Anstatt sich zu bewegen oder anzugreifen, kann ein Spieler eine Einheit aus seiner Reserve holen und sie auf ein unbesetztes Feld neben seinem Stützpunkt platzieren. Das Aufstellen einer Einheit auf Wasser oder einem anderen Gelände mit einer Gefahr löst keine Gefahrenprüfung aus. Ein Spieler kann eine Einheit zurück in seine Reserven beordern, indem er die Einheit auf seinen Stützpunkt bewegt.
+
+## Siegbedingungen
+Um zu gewinnen, muss ein Spieler entweder die gesamte gegnerische Armee gefangen nehmen oder deren Stützpunkt besiegen.
+
+## Angreifen von Stützpunkten
+Stützpunkte können keine Einheiten besiegen. Wenn sie angegriffen werden, verteidigen sich immer mit Abwehrwürfeln. Benachbarte verbündete Einheiten unterstützen ihren Stützpunkt. 
+Einheiten dürfen die Stützpunkte nicht wie andere Felder besetzen und bekommen keinen Vorteil, wenn sie einen Angriff in der Nachbarschaft durchführen.
+
+## Auf Zeit spielen
+Wenn ein Spieler mehrere sinnlose Züge macht, um Zeit zu gewinnen oder seinen Gegner dazu zu bringen, etwas Unüberlegtes zu tun, nennt man das "auf Zeit spielen". Das ist nicht erlaubt, es sei denn der Spieler hat nur noch zwei oder weniger Einheiten. 
+Wenn beide Spieler an diesem Punkt sind, hat nur der Spieler mit den niedrigsten Gesamtkosten das Recht, auf Zeit zu spielen.
+
+## Kosten für Einheiten
+Jede Steckbrief führt die Kosten der Einheit auf. Diese Kosten basieren auf der Gesamteffektivität der Einheit. Im Standardspiel hat jede Fraktion 125 Punkte an Einheiten.
+
+
+## Lizenz
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung-Nicht kommerziell-Share Alike 4.0 International-Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-
-
-
