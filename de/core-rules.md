@@ -2,7 +2,7 @@
 
 ## Die Legion des Hochkönigs gegen die Stämme des Dunkelwaldes
 
-Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie überallhin mitnehmen und spielen können! Diese Set enthält die Teile für zwei Fraktionen. Für ein Standard Zwei-Spieler-Spiel, benötigen Sie folgende Einheiten und Geländekacheln:
+Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie überallhin mitnehmen und spielen können! Diese Set enthält zwei Fraktionen. Für ein gewöhnliches Zwei-Spieler-Spiel benötigen Sie folgende Einheiten und Geländekacheln:
 
 **Legion des Hochkönigs**
 + Rekrut x 3
@@ -34,11 +34,12 @@ Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie
 1.	Die Spieler wählen jeweils eine Fraktion. Legen Sie anschließend sowohl die zwei Stützpunkte (Caer und Druidenkreis) als auch alle Einheiten an die Seite des Spielfelds.
 2.	Geben Sie alle 20 Geländekacheln in einem Beutel.
 3.	Würfeln Sie, um zu bestimmen, wer der erste Spieler ist.
-4.	Der erste Spieler legt seinen Stützpunkt vor sich auf das Spielfeld, zieht eine Kachel aus dem Beutel und legt die Kachel an eine nach außen gerichtete Seite seines Stützpunkts (die drei Seiten, die vom ersten Spieler weg zeigen).
-5.	Spieler 2 zieht eine Kachel und legt sie auf die gleiche Weise ab. Wie beim ersten Plättchen darf das neue Plättchen nicht so platziert werden, dass es die drei hinteren (dem ersten Spieler zugewandten) Seiten eines beliebigen Plättchens im Spiel berührt.
-6.	Legen Sie abwechselnd neue Geländekacheln auf diese Weise ab. Das Spielfeld sollte sich in Richtung des zweiten Spielers ausdehnen.
-7.	Sobald alle 20 Geländekacheln im Spiel sind, platziert der zweite Spieler seinen Stützpunkt so weit wie möglich von dem ersten Stützpunkt entfernt, wobei er genau die gleiche Anzahl von Geländekacheln berührt. Wenn beispielsweise der Stützpunkt des ersten Spielers mit zwei Kacheln verbunden ist, muss der Stützpunkt des zweiten Spielers an die am weitesten entfernte Stelle gelegt werden, an der er ebenfalls mit zwei Kacheln verbunden ist.
-1. Jedes der Charaktermodelle wird als eine Einheit bezeichnet. Beginnend mit dem ersten Spieler, legen die Spieler abwechselnd Einheiten auf die Geländekacheln, die ihrem Stützpunkt am nächsten liegen. Jeder Spieler bringt drei Einheiten ins Spiel. Die restlichen Einheiten werden am Rand des Spielfelds platziert und bilden die Reserve.
+4.	Der erste Spieler legt seinen Stützpunkt vor sich auf das Spielfeld, zieht eine Geländekachel aus dem Beutel und legt die Kachel an eine nach außen gerichtete Seite seines Stützpunkts. Das sind die drei Seiten, die vom ersten Spieler weg zeigen.
+5.	Spieler 2 zieht eine Kachel und legt sie auf die gleiche Weise ab. 
+Wie bei bei der ersten Kachel, muss auch die zweite an einer vom ersten Spieler abgewandten Kachelseite platziert werden. 
+6.	Legen Sie nun abwechselnd neue Geländekacheln auf diese Weise ab. Das Spielfeld sollte sich in Richtung des zweiten Spielers auffächern und ausdehnen.
+7.	Sobald alle 20 Geländekacheln im Spiel sind, platziert der zweite Spieler seinen Stützpunkt so weit wie möglich von dem ersten Stützpunkt entfernt. Der Stützpunkt muss hierbei genau die gleiche Anzahl von Geländekacheln berühren. Wenn beispielsweise der Stützpunkt des ersten Spielers mit zwei Kacheln verbunden ist, muss der Stützpunkt des zweiten Spielers an die am weitesten entfernte Stelle gelegt werden, an der er ebenfalls mit zwei Kacheln verbunden ist.
+8. Jedes der Charaktermodelle wird als eine Einheit bezeichnet. Beginnend mit dem ersten Spieler, stellen die Spieler abwechselnd Einheiten auf die Geländekacheln, die ihrem Stützpunkt am nächsten liegen. Jeder Spieler bringt zunächst drei Einheiten ins Spiel. Die restlichen Einheiten werden am Rand des Spielfelds platziert und bilden die Reserve.
 
 
 ## Spielablauf
@@ -48,13 +49,29 @@ Der erste Spieler beginnt das Spiel. In seinem Zug kann der Spieler entweder ein
 Eine Einheit kann sich auf eine benachbarte unbesetzte Kachel bewegen. Einheiten können eine von einer befreundeten Einheit besetzte Kachel "überspringen", um eine unbesetzte Kachel zu erreichen. Einige Einheiten, wie Speerkämpfer und der Druide, haben spezielle Fähigkeiten, die die Bewegung beeinflussen. Diese Fähigkeiten sind auf dem Steckbrief der Einheiten aufgeführt.
 
 #### Gefahren
-Gefahren sind in der Regel Geländeeffekte, die eine Einheit außerhalb eines Angriffs besiegen oder andere negative Einfluss haben können. Wenn Sie sich in ein Wasserfeld bewegen (oder einen Nahangriff dorthin durchführen), wird ein Gefahreneffekt ausgelöst. Bei einer Wassergefahr wird sofort ein einzelner Würfel geworfen und bei einer 1 bis 3 ist die Einheit besiegt. Entfernen Sie die Einheit vom Spielfeld und übergeben Sie ihrem Gegner. Die Einheit kommt ins Gefangenenlager.
-
+Gefahren sind meist Einflüsses des Geländes, die eine Einheit auch außerhalb eines Angriffs besiegen oder andere negative Auswirkungen haben können. Wenn Sie sich in ein Wasserfeld bewegen oder einen Nahkampfangriff dorthin durchführen, wirkt die Gefahr. Bei einer Wassergefahr wird sofort ein einzelner Würfel geworfen und bei einer 1 bis 3 ist die Einheit besiegt. Entfernen Sie die Einheit vom Spielfeld und übergeben Sie sie ihrem Gegner. Die Einheit kommt ins Gefangenenlager.
 Wenn Sie über einen Verbündeten auf einem Gefahrenfeld springen, wird keine Gefahrenprüfung durchgeführt. Eine Einheit, die in einem Gefahrenfeld Geländevorteil hat, ist immun gegen den Gefahreneffekt (allerdings gibt es in diesem Set keine Einheiten, auf die dies zutrifft).
+
 
 ### Angriff
 Eine Einheit attackiert einen Gegner, indem sie einen "Angriff" deklariert. Es gibt zwei Arten von Angriffen: Nahkampfangriffe und Fernkampfangriffe.
 
+#### Nahkampf
+Um einen Nahkampfangriff durchzuführen, bewegt sich die angreifende Einheit auf ein angrenzendes gegnerisches Spielfeld. Wenn dort kein Platz ist, stellen Sie die Einheiten einfach vorerst zur Seite. Für die angreifende Einheit zählt das gegnerische Gelände als Standort und damit gelten die entsprechenden Geländevorteile. Der Angreifer erklärt nun Nahkampf oder Magie, und jeder Spieler würfelt eine Anzahl von roten Angriffs- und blauen Verteidigungswürfeln, deren Anzahl auf den Angriffs- und Abwehrwerten der Einheiten basieren. Diese Würfe repräsentieren den Angriff des Angreifers und den gleichzeitigen Gegenangriff des Verteidigers.
+
+#### Auswertung der Würfel
+Ordnen Sie den Angriffswürfeln die Abwehrwürfel vom höchsten zum niedrigsten Wert auf jeder Seite zu. 
+Vergleichen Sie nun die Würfelpaare. Ist der Abwehrwurf niedriger als der Angriffswurf, so ist die gegnerische Einheit besiegt und es wird nicht weiter verglichen. Wenn der Abwehrwurf gleich oder höher dem Angriffwurfs ist, so ist der Angriffswurf fehlgeschlagen und das nächste Würfelpaar wird verglichen. Falls einem Angriffswurf kein Abwehrwurf entgegengesetzt werden kann, so ist die Einheit ebenfalls besiegt.
+Es kann passieren, dass sich beide Einheiten gegenseitig besiegen. Es ist auch möglich, dass der Kampf in einer Pattsituation endet. 
+Wenn eine Einheit besiegt ist, wird sie von der Karte entfernt und dem Gefangenenlager des Gegners hinzugefügt. 
+Wenn die angreifende Einheit gesiegt und überlebt hat, wird sie nun das Gelände besetzen. Falls der Angriff in einer Pattsituation endete, kehrt der
+Angreifer auf das Feld zurück, auf dem er sich vor dem Angriff befand. Die Rückkehr löst keinen Gefahrentest aus.
+
+
+#### Fernkampf
+Bei einem Fernangriff kann die angreifende Einheit eine gegnerische Einheit in einem angrenzenden Spielfeld mit Fernkampfwaffen oder Magie bekämpfen. Wie bei Nahkämpfen muss die verteidigende Einheit die vom Angreifer gewählte Angriffsart abwehren. Fernkämpfe werden genauso behandelt wie Nahkämpfe, mit dem Unterschied, dass der Angreifer sich nicht bewegt, wenn er gewinnt.
+Ein Verteidiger kann nur dann einen Gegenangriff durchführen, wenn er eine ähnliche Spezialfähigkeit hat und damit den Angreifer erreichen kann.
+Einige Einheiten, beispielsweise Bogenschützen, verwenden spezielle Fähigkeiten, um Fernangriffe aus noch größerer Entfernung durchzuführen. Ein solche Fernkampfangriff, der sich über ein Feld hinaus erstreckt, darf nicht durch leere Räume erfolgen, in denen sich keine Geländekachel befindet.
 
 
 
