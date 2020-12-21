@@ -100,7 +100,7 @@ Um zu gewinnen, muss ein Spieler entweder die gesamte gegnerische Armee gefangen
 Wenn ein Spieler mehrere sinnlose Züge macht, um Zeit zu gewinnen oder seinen Gegner dazu zu bringen, etwas Unüberlegtes zu tun, nennt man das "auf Zeit spielen". Das ist nicht erlaubt, es sei denn der Spieler hat nur noch zwei oder weniger Einheiten. Wenn beide Spieler an diesem Punkt sind, hat nur der Spieler mit den niedrigsten Gesamtkosten das Recht, auf Zeit zu spielen.
 
 ### Kosten für Einheiten
-Jeder Steckbrief führt die Kosten der Einheit auf und diese basieren auf der Gesamteffektivität der Einheit. Im Standardspiel hat jede Fraktion 125 Punkte an Einheiten.
+Die Kosten einer Einheit werden auf den Charakterkarten genannt und basieren auf der Gesamteffektivität der Einheit. Im Standardspiel hat jede Fraktion 125 Punkte an Einheiten.
 
 ### Lizenz
 Diese Arbeit unterliegt den Bestimmungen einer
