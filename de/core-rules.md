@@ -30,7 +30,6 @@ Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie
 + Waldkachel x 7
 
 ## Spielvorbereitung
-
 +   Die Spieler wählen jeweils eine Fraktion. Legen Sie anschließend sowohl die zwei Stützpunkte (Caer und Druidenkreis) als auch alle Einheiten an die Seite des Spielfelds.
 +	Geben Sie alle 20 Geländekacheln in einem Beutel.
 +	Würfeln Sie, um zu bestimmen, wer der erste Spieler ist.
@@ -46,12 +45,11 @@ Wie bei bei der ersten Kachel, muss auch die zweite an einer vom ersten Spieler 
 Der erste Spieler beginnt das Spiel. In seinem Zug kann der Spieler entweder eine Einheit bewegen, eine neue Einheit aufstellen oder einen Angriff durchführen.  
 
 ### Bewegen
-Eine Einheit kann sich auf eine benachbarte unbesetzte Kachel bewegen. Einheiten können eine von einer befreundeten Einheit besetzte Kachel "überspringen", um eine unbesetzte Kachel zu erreichen. Einige Einheiten, wie Speerkämpfer und der Druide, haben spezielle Fähigkeiten, die die Bewegung beeinflussen. Diese Fähigkeiten sind auf dem Steckbrief der Einheiten aufgeführt.
+Eine Einheit kann sich auf eine benachbarte unbesetzte Kachel bewegen. Einheiten können eine von einer befreundeten Einheit besetzte Kachel "überspringen", um eine unbesetzte Kachel zu erreichen. Einige Einheiten, wie Speerkämpfer und der Druide, haben spezielle Fähigkeiten, die die Bewegung beeinflussen. Diese Fähigkeiten sind auf der Charakterkarte der jeweiligen Einheiten aufgeführt.
 
 #### Gefahren
 Gefahren sind meist Einflüsses des Geländes, die eine Einheit auch außerhalb eines Angriffs besiegen oder andere negative Auswirkungen haben können. Wenn Sie sich in ein gefährliches Gelände bewegen oder einen Nahkampfangriff dorthin durchführen, wirkt die Gefahr und muss geprüft werden. Bei einer Gefahr durch Wasser wird sofort gewürfelt und bei einem Wurfe von 1 bis 3 ist die Einheit besiegt. Entfernen Sie die Einheit vom Spielfeld und übergeben Sie sie ihrem Gegner. Die Einheit kommt ins Gefangenenlager.
 Wenn Sie über einen Verbündeten auf einem Gefahrenfeld springen, wird keine Gefahrenprüfung durchgeführt. Eine Einheit, die in einem Gefahrenfeld Geländevorteil hat, ist immun gegen den Gefahreneffekt (allerdings gibt es in diesem Set keine Einheiten, auf die dies zutrifft).
-
 
 ### Angriff
 Eine Einheit attackiert einen Gegner, indem sie einen "Angriff" deklariert. Es gibt zwei Arten von Angriffen: Nahkampfangriffe und Fernkampfangriffe.
@@ -67,12 +65,10 @@ Wenn eine Einheit besiegt ist, wird sie von der Karte entfernt und dem Gefangene
 Wenn die angreifende Einheit gesiegt und überlebt hat, wird sie nun das Gelände besetzen. Falls der Angriff in einer Pattsituation endete, kehrt der
 Angreifer auf das Feld zurück, auf dem er sich vor dem Angriff befand. Die Rückkehr löst keinen Gefahrenprüfung aus.
 
-
 #### Fernkampf
 Bei einem Fernangriff kann die angreifende Einheit eine gegnerische Einheit in einem angrenzenden Spielfeld mit Fernkampfwaffen oder Magie bekämpfen. Wie bei Nahkämpfen muss die verteidigende Einheit, die vom Angreifer gewählte Angriffsart abwehren. Fernkämpfe werden genauso behandelt wie Nahkämpfe, mit dem Unterschied, dass der Angreifer sich nicht bewegt, wenn er gewinnt.
 Ein Verteidiger kann nur dann einen Gegenangriff durchführen, wenn er eine ähnliche Spezialfähigkeit hat und damit den Angreifer erreichen kann.
 Einige Einheiten, beispielsweise Bogenschützen, verwenden spezielle Fähigkeiten, um Fernangriffe aus noch größerer Entfernung durchzuführen. Ein solche Fernkampfangriff, der sich über ein Feld hinaus erstreckt, darf nicht durch leere Räume erfolgen, in denen sich keine Geländekachel befindet.
-
 
 ### Vorteil
 Einige Fähigkeiten und Situationen erlauben es den Einheiten einen oder mehrere Würfel neu zu würfeln, bevor ein Angriff abgewickelt wird.
@@ -81,8 +77,7 @@ Wiederholungswürfe, die durch besondere Fähigkeiten gewährt werden, müssen z
 Vorteilswiederholungen entstehen durch Geländervorteil und Unterstützung befreundeter Einheiten. Die Vorteilswiederholungen betreffen nur die Würfe der eigenen Einheit, nicht die des Gegners.
 
 #### Geländervorteil
-Der Steckbrief jeder Einheit listet einen vorteilhaften Geländetyp. Ein Angriff auf dieses Gelände gewährt dem Angreifer einen Wiederholungswurf. Ein Fernkampfangriff von einem solchen Gelände  
-gewährt einen Wiederholungswurf. Das Verteidigen auf einem vorteilhaften Gelände wird ebenfalls mit einem Wiederholungswurf erleichtert.
+Auf der Charakerkarte jeder Einheit ist ein Gelände aufgeführt, auf dem die Einheit mit Vorteil kämpfen kann. Ein Angriff auf dieses Gelände gewährt dem Angreifer einen Wiederholungswurf. Ein Fernkampfangriff von einem solchen Gelände gewährt einen Wiederholungswurf. Das Verteidigen auf einem vorteilhaften Gelände wird entsprechend mit einem Wiederholungswurf erleichtert.
 
 #### Unterstützung
 An einen Kampf angrenzende Einheiten bringen Vorteile. Wenn der Angreifer Verbündete in der Nähe des Ziels hat, gewähren sie jeweils einen Wiederholungswurf. Wenn der Verteidiger Verbündete auf
@@ -101,7 +96,6 @@ Um zu gewinnen, muss ein Spieler entweder die gesamte gegnerische Armee gefangen
 
 
 ## Sonstiges
-
 ### Auf Zeit spielen
 Wenn ein Spieler mehrere sinnlose Züge macht, um Zeit zu gewinnen oder seinen Gegner dazu zu bringen, etwas Unüberlegtes zu tun, nennt man das "auf Zeit spielen". Das ist nicht erlaubt, es sei denn der Spieler hat nur noch zwei oder weniger Einheiten. Wenn beide Spieler an diesem Punkt sind, hat nur der Spieler mit den niedrigsten Gesamtkosten das Recht, auf Zeit zu spielen.
 
