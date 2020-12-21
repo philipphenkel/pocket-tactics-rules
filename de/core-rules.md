@@ -14,9 +14,9 @@ Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie
 + Kriegerin x 1
 + Magier x 1
 + Stützpunkt Caer x 1
-+ Feldkachel x 4
-+ Hügelkachel x 4
-+ Dorfkachel x 2 
++ Feld x 4
++ Hügel x 4
++ Dorf x 2 
 
 ### Stämme des Dunkelwaldes
 + Späher des Dunkelwaldes x 3
@@ -26,18 +26,18 @@ Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie
 + Verfluchter Waldläufer x 2
 + Druide x 1
 + Stützpunkt Druidenzirkel x 1
-+ Wasserkachel x 3
-+ Waldkachel x 7
++ Wasser x 3
++ Wald x 7
 
 ## Spielvorbereitung
 +   Die Spieler wählen jeweils eine Fraktion. Legen Sie anschließend sowohl die zwei Stützpunkte (Caer und Druidenkreis) als auch alle Einheiten an die Seite des Spielfelds.
-+	Geben Sie alle 20 Geländekacheln in einem Beutel.
++	Geben Sie alle Geländekacheln in einen Beutel.
 +	Würfeln Sie, um zu bestimmen, wer der erste Spieler ist.
 +	Der erste Spieler legt seinen Stützpunkt vor sich auf das Spielfeld, zieht eine Geländekachel aus dem Beutel und legt die Kachel an eine nach außen gerichtete Seite seines Stützpunkts. Das sind die drei Seiten, die vom ersten Spieler weg zeigen.
 +	Spieler 2 zieht eine Kachel und legt sie auf die gleiche Weise ab. 
 Wie bei bei der ersten Kachel, muss auch die zweite an einer vom ersten Spieler abgewandten Kachelseite platziert werden. 
 +	Legen Sie nun abwechselnd neue Geländekacheln auf diese Weise ab. Das Spielfeld sollte sich in Richtung des zweiten Spielers auffächern und ausdehnen.
-+	Sobald alle 20 Geländekacheln im Spiel sind, platziert der zweite Spieler seinen Stützpunkt so weit wie möglich von dem ersten Stützpunkt entfernt. Der Stützpunkt muss hierbei genau die gleiche Anzahl von Geländekacheln berühren. Wenn beispielsweise der Stützpunkt des ersten Spielers mit zwei Kacheln verbunden ist, muss der Stützpunkt des zweiten Spielers an die am weitesten entfernte Stelle gelegt werden, an der er ebenfalls mit zwei Kacheln verbunden ist.
++	Sobald alle Geländekacheln im Spiel sind, platziert der zweite Spieler seinen Stützpunkt so weit wie möglich von dem ersten Stützpunkt entfernt. Der Stützpunkt muss hierbei genau die gleiche Anzahl von Geländekacheln berühren. Wenn beispielsweise der Stützpunkt des ersten Spielers mit zwei Kacheln verbunden ist, muss der Stützpunkt des zweiten Spielers an die am weitesten entfernte Stelle gelegt werden, an der er ebenfalls mit zwei Kacheln verbunden ist.
 + Jedes der Charaktermodelle wird als eine Einheit bezeichnet. Beginnend mit dem ersten Spieler, stellen die Spieler abwechselnd Einheiten auf die Geländekacheln, die ihrem Stützpunkt am nächsten liegen. Jeder Spieler bringt zunächst drei Einheiten ins Spiel. Die restlichen Einheiten werden am Rand des Spielfelds platziert und bilden die Reserve.
 
 
