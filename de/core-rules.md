@@ -45,7 +45,7 @@ Wie bei bei der ersten Kachel, muss auch die zweite an einer vom ersten Spieler 
 Der erste Spieler beginnt das Spiel. In seinem Zug kann der Spieler entweder eine Einheit bewegen, eine neue Einheit aufstellen oder einen Angriff durchführen.  
 
 ### Bewegen
-Eine Einheit kann sich auf eine benachbarte unbesetzte Kachel bewegen. Einheiten können eine von einer befreundeten Einheit besetzte Kachel "überspringen", um eine unbesetzte Kachel zu erreichen. Einige Einheiten, wie Speerkämpfer und der Druide, haben spezielle Fähigkeiten, die die Bewegung beeinflussen. Diese Fähigkeiten sind auf der Charakterkarte der jeweiligen Einheiten aufgeführt.
+Eine Einheit kann sich auf eine benachbarte unbesetzte Kachel bewegen. Einheiten können eine von einer befreundeten Einheit besetzte Kachel "überspringen", um eine unbesetzte Kachel zu erreichen. Einige Einheiten, wie Speerkämpfer und der Druide, haben spezielle Fähigkeiten, die die Bewegung beeinflussen. Diese Fähigkeiten sind auf der Charakterkarte der jeweiligen Einheit aufgeführt.
 
 #### Gefahren
 Gefahren sind meist Einflüsses des Geländes, die eine Einheit auch außerhalb eines Angriffs besiegen oder andere negative Auswirkungen haben können. Wenn Sie sich in ein gefährliches Gelände bewegen oder einen Nahkampfangriff dorthin durchführen, wirkt die Gefahr und muss geprüft werden. Bei einer Gefahr durch Wasser wird sofort gewürfelt und bei einem Wurfe von 1 bis 3 ist die Einheit besiegt. Entfernen Sie die Einheit vom Spielfeld und übergeben Sie sie ihrem Gegner. Die Einheit kommt ins Gefangenenlager.
@@ -100,7 +100,7 @@ Um zu gewinnen, muss ein Spieler entweder die gesamte gegnerische Armee gefangen
 Wenn ein Spieler mehrere sinnlose Züge macht, um Zeit zu gewinnen oder seinen Gegner dazu zu bringen, etwas Unüberlegtes zu tun, nennt man das "auf Zeit spielen". Das ist nicht erlaubt, es sei denn der Spieler hat nur noch zwei oder weniger Einheiten. Wenn beide Spieler an diesem Punkt sind, hat nur der Spieler mit den niedrigsten Gesamtkosten das Recht, auf Zeit zu spielen.
 
 ### Kosten für Einheiten
-Die Kosten einer Einheit werden auf den Charakterkarten genannt und basieren auf der Gesamteffektivität der Einheit. Im Standardspiel hat jede Fraktion 125 Punkte an Einheiten.
+Die Kosten einer Einheit werden auf ihrer Charakterkarte genannt und basieren auf der Gesamteffektivität der Einheit. Im Standardspiel hat jede Fraktion 125 Punkte an Einheiten.
 
 ### Lizenz
 Diese Arbeit unterliegt den Bestimmungen einer
