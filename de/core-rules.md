@@ -61,8 +61,8 @@ Um einen Nahkampfangriff durchzuführen, bewegt sich die angreifende Einheit auf
 Ordnen Sie den Angriffswürfeln die Abwehrwürfel vom höchsten zum niedrigsten Wert auf jeder Seite zu. 
 Vergleichen Sie nun die Würfelpaare. Ist der Abwehrwurf niedriger als der Angriffswurf, so ist die gegnerische Einheit besiegt und es wird nicht weiter verglichen. Wenn der Abwehrwurf gleich oder höher dem Angriffwurfs ist, so ist der Angriffswurf fehlgeschlagen und das nächste Würfelpaar wird verglichen. Falls einem Angriffswurf kein Abwehrwurf entgegengesetzt werden kann, so ist die Einheit ebenfalls besiegt.
 Es kann passieren, dass sich beide Einheiten gegenseitig besiegen. Es ist auch möglich, dass der Kampf in einer Pattsituation endet. 
-Wenn eine Einheit besiegt ist, wird sie von der Karte entfernt und dem Gefangenenlager des Gegners hinzugefügt. 
-Wenn die angreifende Einheit gesiegt und überlebt hat, wird sie nun das Gelände besetzen. Falls der Angriff in einer Pattsituation endete, kehrt der
+Wenn eine Einheit besiegt ist, wird sie vom Spielfeld entfernt und wandert ins Gefangenenlager des Gegners. 
+Wenn die angreifende Einheit gesiegt und überlebt hat, wird sie nun das Gelände besetzen. Falls der Angriff in einer Pattsituation endet, kehrt der
 Angreifer auf das Feld zurück, auf dem er sich vor dem Angriff befand. Die Rückkehr löst keinen Gefahrenprüfung aus.
 
 #### Fernkampf
