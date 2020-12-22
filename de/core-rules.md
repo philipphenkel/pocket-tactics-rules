@@ -96,11 +96,14 @@ Um zu gewinnen, muss ein Spieler entweder die gesamte gegnerische Armee gefangen
 
 
 ## Sonstiges
-### Auf Zeit spielen
-Wenn ein Spieler mehrere sinnlose Züge macht, um Zeit zu gewinnen oder seinen Gegner dazu zu bringen, etwas Unüberlegtes zu tun, nennt man das "auf Zeit spielen". Das ist nicht erlaubt, es sei denn der Spieler hat nur noch zwei oder weniger Einheiten. Wenn beide Spieler an diesem Punkt sind, hat nur der Spieler mit den niedrigsten Gesamtkosten das Recht, auf Zeit zu spielen.
 
-### Kosten für Einheiten
-Die Kosten einer Einheit werden auf ihrer Charakterkarte genannt und basieren auf der Gesamteffektivität der Einheit. Im Standardspiel hat jede Fraktion 125 Punkte an Einheiten.
+### Wert einer Einheit
+Die Wert einer Einheit wird auf ihrer Charakterkarte genannt und basiert auf ihrer Gesamteffektivität. Im Standardspiel summiert sich jede Fraktion auf 125 Punkte.
+
+### Zeit schinden
+Es ist nicht erlaubt, das Spiel künstlich zu verzögern. Sinnlose Züge, um Zeit zu gewinnen sind verboten, es sei denn der Spieler hat zwei oder weniger Einheiten. Sind beide Fraktionen so start dezimiert, so darf nur der Spieler mit dem niedrigsten verbleibenden Gesamtwert auf Zeit spielen.
+
+
 
 ### Lizenz
 Diese Arbeit unterliegt den Bestimmungen einer
