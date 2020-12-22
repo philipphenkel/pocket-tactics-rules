@@ -23,7 +23,7 @@ Willkommen bei Pocket-Tactics, einem rasanten, modularen Strategiespiel, das Sie
 + Plünderer des Dunkelwaldes x 2
 + Moloch des Dunkelwaldes x 2
 + Waldhexe x 2
-+ Verfluchter Waldläufer x 2
++ Verfluchter Waldläufer x 1
 + Druide x 1
 + Stützpunkt Druidenzirkel x 1
 + Wasser x 3
