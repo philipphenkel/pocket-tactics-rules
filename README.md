@@ -2,7 +2,7 @@
 
 # pocket-tactics-rules
 
-[Pocket-Tactics by Ill Gotten Games](http://www.illgottengames.net/pocket-tactics) is a 3d print-and-play strategy boardgame in which fantasy forces battle for control of a hex tile-based map. 
+[Pocket-Tactics by Ill Gotten Games](http://www.illgottengames.net/pocket-tactics) is a 3d print-and-play strategy board game in which fantasy forces battle for control of a hex tile-based map. 
 
 ![pocket-tactics](./images/pocket-tactics-small.png)
 
